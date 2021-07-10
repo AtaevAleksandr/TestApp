@@ -11,7 +11,6 @@ struct TimersData {
     
     var nameTimer: String
     var timer: String
-//    var timer: Timer
 }
 
 

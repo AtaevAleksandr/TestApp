@@ -11,7 +11,6 @@
 		5B301DBE26944FC100BD62F0 /* TimersCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B301DBD26944FC100BD62F0 /* TimersCell.swift */; };
 		5B301DC026947A5F00BD62F0 /* TimersData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B301DBF26947A5F00BD62F0 /* TimersData.swift */; };
 		5B301DC22694F99800BD62F0 /* UIView+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B301DC12694F99700BD62F0 /* UIView+Ext.swift */; };
-		5B301DC4269594E000BD62F0 /* Timers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B301DC3269594E000BD62F0 /* Timers.swift */; };
 		5B8F0E16269393C700578150 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8F0E15269393C700578150 /* AppDelegate.swift */; };
 		5B8F0E18269393C700578150 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8F0E17269393C700578150 /* SceneDelegate.swift */; };
 		5B8F0E1A269393C700578150 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8F0E19269393C700578150 /* ViewController.swift */; };
@@ -24,7 +23,6 @@
 		5B301DBD26944FC100BD62F0 /* TimersCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimersCell.swift; sourceTree = "<group>"; };
 		5B301DBF26947A5F00BD62F0 /* TimersData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimersData.swift; sourceTree = "<group>"; };
 		5B301DC12694F99700BD62F0 /* UIView+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Ext.swift"; sourceTree = "<group>"; };
-		5B301DC3269594E000BD62F0 /* Timers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timers.swift; sourceTree = "<group>"; };
 		5B8F0E12269393C700578150 /* Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Timer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B8F0E15269393C700578150 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5B8F0E17269393C700578150 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,7 +72,6 @@
 				5B301DBD26944FC100BD62F0 /* TimersCell.swift */,
 				5B301DBF26947A5F00BD62F0 /* TimersData.swift */,
 				5B301DC12694F99700BD62F0 /* UIView+Ext.swift */,
-				5B301DC3269594E000BD62F0 /* Timers.swift */,
 			);
 			path = Timer;
 			sourceTree = "<group>";
@@ -151,7 +148,6 @@
 				5B8F0E1A269393C700578150 /* ViewController.swift in Sources */,
 				5B301DBE26944FC100BD62F0 /* TimersCell.swift in Sources */,
 				5B8F0E16269393C700578150 /* AppDelegate.swift in Sources */,
-				5B301DC4269594E000BD62F0 /* Timers.swift in Sources */,
 				5B8F0E18269393C700578150 /* SceneDelegate.swift in Sources */,
 				5B301DC22694F99800BD62F0 /* UIView+Ext.swift in Sources */,
 				5B301DBC269440F700BD62F0 /* AddTimersCell.swift in Sources */,
